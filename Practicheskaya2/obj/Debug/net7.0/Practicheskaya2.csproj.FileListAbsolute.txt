@@ -1,0 +1,14 @@
+C:\Users\24070\source\repos\Practicheskaya2\Practicheskaya2\bin\Debug\net7.0\Practicheskaya2.exe
+C:\Users\24070\source\repos\Practicheskaya2\Practicheskaya2\bin\Debug\net7.0\Practicheskaya2.deps.json
+C:\Users\24070\source\repos\Practicheskaya2\Practicheskaya2\bin\Debug\net7.0\Practicheskaya2.runtimeconfig.json
+C:\Users\24070\source\repos\Practicheskaya2\Practicheskaya2\bin\Debug\net7.0\Practicheskaya2.dll
+C:\Users\24070\source\repos\Practicheskaya2\Practicheskaya2\bin\Debug\net7.0\Practicheskaya2.pdb
+C:\Users\24070\source\repos\Practicheskaya2\Practicheskaya2\obj\Debug\net7.0\Practicheskaya2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\24070\source\repos\Practicheskaya2\Practicheskaya2\obj\Debug\net7.0\Practicheskaya2.AssemblyInfoInputs.cache
+C:\Users\24070\source\repos\Practicheskaya2\Practicheskaya2\obj\Debug\net7.0\Practicheskaya2.AssemblyInfo.cs
+C:\Users\24070\source\repos\Practicheskaya2\Practicheskaya2\obj\Debug\net7.0\Practicheskaya2.csproj.CoreCompileInputs.cache
+C:\Users\24070\source\repos\Practicheskaya2\Practicheskaya2\obj\Debug\net7.0\Practicheskaya2.dll
+C:\Users\24070\source\repos\Practicheskaya2\Practicheskaya2\obj\Debug\net7.0\refint\Practicheskaya2.dll
+C:\Users\24070\source\repos\Practicheskaya2\Practicheskaya2\obj\Debug\net7.0\Practicheskaya2.pdb
+C:\Users\24070\source\repos\Practicheskaya2\Practicheskaya2\obj\Debug\net7.0\Practicheskaya2.genruntimeconfig.cache
+C:\Users\24070\source\repos\Practicheskaya2\Practicheskaya2\obj\Debug\net7.0\ref\Practicheskaya2.dll
