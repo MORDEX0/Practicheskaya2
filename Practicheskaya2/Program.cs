@@ -48,13 +48,15 @@
         static void Delitel()
         {
             int dnum = Convert.ToInt32(Console.ReadLine());
-            for (int xod = 1; xod * xod <= dnum; xod++)
+            int xod = 0;
+            while (xod <= dnum)
             {
+                xod++;
                 if (dnum % xod == 0)
                     Console.Write(xod + "\t");
                 
             }
-            Console.WriteLine(dnum) ;   
+            Console.WriteLine() ;   
         }
 
         static void Actions()
